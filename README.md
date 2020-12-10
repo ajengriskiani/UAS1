@@ -17,7 +17,7 @@ git clone https://github.com/[your username]/UAS1.git
 
 ## Our Teams
 1. [Muhammad Haris Firmansyah](https://github.com/harisfi/)
-2. 
+2. [Ajeng Riskiani Lestari](https://github.com/ajengriskiani/)
 3. 
 
 ## License
